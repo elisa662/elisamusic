@@ -1,0 +1,661 @@
+{
+  "source": "https://elisamusic.org/",
+  "captured": "2026-09-18",
+  "pages": [
+    "/",
+    "/HOME/",
+    "/TERMINE/",
+    "/PROJEKTE/",
+    "/KONTAKT/",
+    "/KONTAKT/Impressum/"
+  ],
+  "assets": {
+    "https://strato-editor.com/.cm4all/res/static/jquery-1.7/jquery.js": {
+      "path": "assets/61b86d6ac58b-jquery-js.js",
+      "content_type": "application/javascript",
+      "bytes": 140355,
+      "sha256": "56abf31f631b74be22fea7510b8f3779d3a2b348792aaf31d119d9650b0e75cd",
+      "resolved_url": "https://strato-editor.com/.cm4all/res/static/jquery-1.7/jquery.js"
+    },
+    "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/effects.js": {
+      "path": "assets/5638ebd01247-effects-js.js",
+      "content_type": "application/javascript",
+      "bytes": 10264,
+      "sha256": "039d73a111d996ad197415b37f547f71ff3fe9e42b974ba238446ae38f6d9578",
+      "resolved_url": "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/effects.js"
+    },
+    "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/changeBurgerColor.js": {
+      "path": "assets/e3c091350716-changeBurgerColor-js.js",
+      "content_type": "application/javascript",
+      "bytes": 3893,
+      "sha256": "a717696dfc72dba9d1f420dacaacffbad96fb5c640cbf6793700077c4eb899ea",
+      "resolved_url": "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/changeBurgerColor.js"
+    },
+    "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/cm_template-focus-point.js": {
+      "path": "assets/d671df2566d6-cm_template-focus-point-js.js",
+      "content_type": "application/javascript",
+      "bytes": 2956,
+      "sha256": "cbb3a02b364a7ccd13e239c20652c7878217320fcefe6bd01061e5bfac90a56c",
+      "resolved_url": "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/cm_template-focus-point.js"
+    },
+    "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/cm-templates-global-script.js": {
+      "path": "assets/c731d013724d-cm-templates-global-script-js.js",
+      "content_type": "application/javascript",
+      "bytes": 942,
+      "sha256": "a9f9b2d04fa26f5528be5a882cabc825e821d2e1644595757418ddd53a35bf50",
+      "resolved_url": "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/js/cm-templates-global-script.js"
+    },
+    "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/css/font-awesome.min.css": {
+      "path": "assets/6fb4b24ae463-font-awesome-min-css.css",
+      "content_type": "text/css",
+      "bytes": 31000,
+      "sha256": "799aeb25cc0373fdee0e1b1db7ad6c2f6a0e058dfadaa3379689f583213190bd",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/css/font-awesome.min.css"
+    },
+    "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0": {
+      "path": "assets/3853bf60f7ec-fontawesome-webfont-eot.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 165742,
+      "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0"
+    },
+    "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.eot": {
+      "path": "assets/5ad5972c41f1-fontawesome-webfont-eot.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 165742,
+      "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0": {
+      "path": "assets/131b28d350d6-fontawesome-webfont-woff2.woff2",
+      "content_type": "application/font-woff2",
+      "bytes": 77160,
+      "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0"
+    },
+    "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0": {
+      "path": "assets/359159bffd5c-fontawesome-webfont-woff.woff",
+      "content_type": "application/x-font-woff",
+      "bytes": 98024,
+      "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0"
+    },
+    "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0": {
+      "path": "assets/0db1b11f73fd-fontawesome-webfont-ttf.ttf",
+      "content_type": "font/truetype",
+      "bytes": 165548,
+      "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0"
+    },
+    "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0": {
+      "path": "assets/36e06dff4916-fontawesome-webfont-svg.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 444379,
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/static/3rdparty/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0"
+    },
+    "https://strato-editor.com/.cm4all/res/static/libcm4all-js-widget/3.89.7/css/widget-runtime.css": {
+      "path": "assets/0df00ae31d71-widget-runtime-css.css",
+      "content_type": "text/css",
+      "bytes": 1901,
+      "sha256": "ad01150330f6dc8e20e55ab237fe3db7b1157ea0058cb5d4e146cb5ac525ebcc",
+      "resolved_url": "https://strato-editor.com/.cm4all/res/static/libcm4all-js-widget/3.89.7/css/widget-runtime.css"
+    },
+    "https://strato-editor.com/res/js/lib/css/close.png": {
+      "path": "assets/8f8e576f3cf4-close-png.png",
+      "content_type": "image/png",
+      "bytes": 1097,
+      "sha256": "11821ccb3a6d4a4e8ddc5a64210264d8ada77886ede09a6f7451f7b82693bf10",
+      "resolved_url": "https://strato-editor.com/res/js/lib/css/close.png"
+    },
+    "https://strato-editor.com/.cm4all/res/static/beng-editor/5.3.138/css/deploy.css": {
+      "path": "assets/f3807f42cdee-deploy-css.css",
+      "content_type": "text/css",
+      "bytes": 14512,
+      "sha256": "bc7f2eceb7edce9490efc33928aba9b1205a628110e954221cd397360cc213ac",
+      "resolved_url": "https://strato-editor.com/.cm4all/res/static/beng-editor/5.3.138/css/deploy.css"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_map_80.png": {
+      "path": "assets/9a3dca97016d-Buttons_map_80-png.png",
+      "content_type": "image/png",
+      "bytes": 4761,
+      "sha256": "59e1f0b2cf4d287bedcb9852c2cba16251e30ad134d74754e8dfb5d46babd62e",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_map_80.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_map_160.png": {
+      "path": "assets/148c4c0ae02c-Buttons_map_160-png.png",
+      "content_type": "image/png",
+      "bytes": 6753,
+      "sha256": "83b646e185b9f0cb3e0be82eab608519e0c19bf3b842555dc7fab8b8d3487019",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_map_160.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_call_80.png": {
+      "path": "assets/83d3e7e67b92-Buttons_call_80-png.png",
+      "content_type": "image/png",
+      "bytes": 4672,
+      "sha256": "651fd24da105f37fdda769354595def824bc6de9f0d80d989ba16cfe7de7da17",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_call_80.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_call_160.png": {
+      "path": "assets/26d3ca19b5b6-Buttons_call_160-png.png",
+      "content_type": "image/png",
+      "bytes": 6659,
+      "sha256": "d0bfc0816f4754a9e9903bc9458c38e54278650e4a356303f799cdb710aabc28",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_call_160.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_mail_80.png": {
+      "path": "assets/f6fe942e5ba9-Buttons_mail_80-png.png",
+      "content_type": "image/png",
+      "bytes": 5039,
+      "sha256": "5241292a88053ad0cbfab9df1527cf07608fba20096bd939d45dc80c31104b6c",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_mail_80.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_mail_160.png": {
+      "path": "assets/9398e8106856-Buttons_mail_160-png.png",
+      "content_type": "image/png",
+      "bytes": 7622,
+      "sha256": "c7cd2f5dd8de9040fc77bfd82451a0752cd9e6637604d54606e6cc97c7ad0744",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_mail_160.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_about_80.png": {
+      "path": "assets/5cecec404034-Buttons_about_80-png.png",
+      "content_type": "image/png",
+      "bytes": 3963,
+      "sha256": "894d0d7b60435e7e1c2218c5c823fd4a6b37e6989ffaeb9233fc30167f636ced",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_about_80.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_about_160.png": {
+      "path": "assets/3042193d5572-Buttons_about_160-png.png",
+      "content_type": "image/png",
+      "bytes": 5111,
+      "sha256": "1eecbf4fbb06b46d7ec7c67b7e899b262cade4fe087f0a5ff691816231b068aa",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_about_160.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_facebook_80.png": {
+      "path": "assets/f4184ec63979-Buttons_facebook_80-png.png",
+      "content_type": "image/png",
+      "bytes": 3656,
+      "sha256": "88e694ff9eb60873f6614f343276924439ee967d705d58fa9befd187c5c53b10",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_facebook_80.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_facebook_160.png": {
+      "path": "assets/ab5d4f90934a-Buttons_facebook_160-png.png",
+      "content_type": "image/png",
+      "bytes": 4423,
+      "sha256": "2d7dfa5c20f0dc52641ecda3f153a6372321f673aa8e61292083ca6fdd37b229",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_facebook_160.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_website_80.png": {
+      "path": "assets/98e9ae9926fd-Buttons_website_80-png.png",
+      "content_type": "image/png",
+      "bytes": 4824,
+      "sha256": "80769af8da0d41f487ce0ae5b6eaecce29e77ba2e4ec057ef2897f6929221422",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_website_80.png"
+    },
+    "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_website_160.png": {
+      "path": "assets/2462bec4588e-Buttons_website_160-png.png",
+      "content_type": "image/png",
+      "bytes": 6864,
+      "sha256": "f22b752e2db3b2d9e686a7ed811d6c60bdffeb59f9a46e139f6ac78f7c875c39",
+      "resolved_url": "https://strato-editor.com/.cm4all/e/assets/img/mstart/Buttons_website_160.png"
+    },
+    "https://strato-editor.com/.cm4all/res/static/libcm4all-js-widget/3.89.7/css/slideshow-common.css": {
+      "path": "assets/def244eb5b97-slideshow-common-css.css",
+      "content_type": "text/css",
+      "bytes": 17053,
+      "sha256": "624b65fa03b65d0da5873922f532c11aeae0e42d30c9471e90cd1961449650b2",
+      "resolved_url": "https://strato-editor.com/.cm4all/res/static/libcm4all-js-widget/3.89.7/css/slideshow-common.css"
+    },
+    "https://strato-editor.com/res/js/lib/slideshow/arrows.png": {
+      "path": "assets/53ce33cb8d9b-arrows-png.png",
+      "content_type": "image/png",
+      "bytes": 2281,
+      "sha256": "b88be379755ec98cd861d1258e0613570fef5c9410d5d3453e5d07227202412c",
+      "resolved_url": "https://strato-editor.com/res/js/lib/slideshow/arrows.png"
+    },
+    "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/css/main.css": {
+      "path": "assets/c3b3aeecca37-main-css.css",
+      "content_type": "text/css",
+      "bytes": 22080,
+      "sha256": "71dd28ee3134af23a2e141b38ae2693d4bf2f61ee53ff16b176ceadea9af24ee",
+      "resolved_url": "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/css/main.css"
+    },
+    "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/css/cm-templates-global-style.css": {
+      "path": "assets/5c5addbd99d5-cm-templates-global-style-css.css",
+      "content_type": "text/css",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "resolved_url": "https://strato-editor.com/.cm4all/designs/static/sys/cm_dux_092/1769040077.0486045/css/cm-templates-global-style.css"
+    },
+    "https://elisamusic.org/.cm4all/handler.php/vars.css?v=20231009133630": {
+      "path": "assets/acfdd01b6250-vars-css.css",
+      "content_type": "text/css",
+      "bytes": 36796,
+      "sha256": "0abb202cf450d2201a45270370417123f9f86dab458d4020756d5970c02fb1cb",
+      "resolved_url": "https://elisamusic.org/.cm4all/handler.php/vars.css?v=20231009133630"
+    },
+    "https://fonts.cm4all.net/css?subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese&family=Barlow+Condensed:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Crimson+Text:regular,italic,600,600italic,700,700italic": {
+      "path": "assets/f8e96ebef94e-css.css",
+      "content_type": "text/css",
+      "bytes": 5000,
+      "sha256": "c8e450d4195b7fd60d031c9eb2ce4af7abd079e1979c7e895606f6cc0769d8fb",
+      "resolved_url": "https://fonts.cm4all.net/css?subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese&family=Barlow+Condensed:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CCrimson+Text:regular,italic,600,600italic,700,700italic"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxzL3I-JCGChYJ8VI-L6OO_au7B6xTru1H2.ttf": {
+      "path": "assets/94fd1af930e6-HTxzL3I-JCGChYJ8VI-L6OO_au7B6xTru1H2-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 84468,
+      "sha256": "dd976b6e11e4c4ac0d72487039e65a243dea6bc751ac8240540bcb6f833f0996",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxzL3I-JCGChYJ8VI-L6OO_au7B6xTru1H2.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrF3DWvA.ttf": {
+      "path": "assets/c6bd6807e639-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrF3DWvA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 84952,
+      "sha256": "db3632b80ca5dc0ab32b442180d0ae108002f7a6fbf54be1122593980045ee07",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrF3DWvA.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrc3PWvA.ttf": {
+      "path": "assets/a715be66c55f-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrc3PWvA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 85656,
+      "sha256": "75c267e30391b16b2113c027cf9e8f714e77b6db1cb548817541c089e6b61002",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrc3PWvA.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxxL3I-JCGChYJ8VI-L6OO_au7B6xTT3w.ttf": {
+      "path": "assets/eda16cf3ef93-HTxxL3I-JCGChYJ8VI-L6OO_au7B6xTT3w-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 86736,
+      "sha256": "75308732678e826c37eabbadc7befc6fc96a3901240388596d730689fe727919",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxxL3I-JCGChYJ8VI-L6OO_au7B6xTT3w.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrK3LWvA.ttf": {
+      "path": "assets/869402afc8d1-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrK3LWvA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 87120,
+      "sha256": "cabd9296479a99218bf354d30742392ca05a76376cf0a72b776e706631e77fcd",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrK3LWvA.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrB3XWvA.ttf": {
+      "path": "assets/b9731ba4ca2a-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrB3XWvA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 89088,
+      "sha256": "958bd2a5bcb371d40fbb2480efda568a9bf5b3b1fdb8dc1fbdcadab959293bff",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrB3XWvA.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrY3TWvA.ttf": {
+      "path": "assets/912bab8c851c-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrY3TWvA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 88944,
+      "sha256": "5e5c01d3260d47223cbf28a3dc9109099a2abeb3cbf8199ddf13164f7ccf98ce",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrY3TWvA.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrf3fWvA.ttf": {
+      "path": "assets/92cb6e973282-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrf3fWvA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 89652,
+      "sha256": "94cf666814140f0e3d0785fdedbc82a3ddb0791ce0001f13c5477fd80439ed23",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrf3fWvA.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrW3bWvA.ttf": {
+      "path": "assets/c4dfe1052fff-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrW3bWvA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 89324,
+      "sha256": "75338266e60b15dfc5ac0bae8b78fdc5535ea50703ed73c14dc598498ffe8173",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrW3bWvA.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxxL3I-JCGChYJ8VI-L6OO_au7B43LT3w.ttf": {
+      "path": "assets/cd06a2fb86f7-HTxxL3I-JCGChYJ8VI-L6OO_au7B43LT3w-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 78888,
+      "sha256": "7c4692da41db60ef9cb710537a13233d17812fb090b03391a6e9e657a87e9d33",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxxL3I-JCGChYJ8VI-L6OO_au7B43LT3w.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B497y_3E.ttf": {
+      "path": "assets/b58fa04e2c4a-HTxwL3I-JCGChYJ8VI-L6OO_au7B497y_3E-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 79580,
+      "sha256": "5542e2af692f9439d128d8bfd5e9c67d0468be067794848f59a2b83faae9fd02",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B497y_3E.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47rx_3E.ttf": {
+      "path": "assets/a10725982087-HTxwL3I-JCGChYJ8VI-L6OO_au7B47rx_3E-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 80388,
+      "sha256": "1e384bc40b3d8bd2d6d985b7fe38648c5f58681aaa2fddf402c4749bbd8bf02d",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47rx_3E.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTx3L3I-JCGChYJ8VI-L6OO_au7B2xY.ttf": {
+      "path": "assets/9c77aa4ade1d-HTx3L3I-JCGChYJ8VI-L6OO_au7B2xY-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 80968,
+      "sha256": "c82d65280835cb3cd1b499863cf68cae8c6193c45ffae9495d28d01f749a9ae2",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTx3L3I-JCGChYJ8VI-L6OO_au7B2xY.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lw_3E.ttf": {
+      "path": "assets/c5c54d387ff9-HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lw_3E-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 81448,
+      "sha256": "cc9fb2539cf27df48255982e896d28f544483537cdb41f9fabd741af8992d719",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lw_3E.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873_3E.ttf": {
+      "path": "assets/8b427a2b2a31-HTxwL3I-JCGChYJ8VI-L6OO_au7B4873_3E-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 86636,
+      "sha256": "0d85af813fc3ed87db0c6265515689b2eef5cbaf7aab17922528dfc95a2cd73f",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873_3E.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2_3E.ttf": {
+      "path": "assets/7b4507232ab2-HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2_3E-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 87120,
+      "sha256": "7dde307fa887fc65ff5830cfada77a7decc5dae8d3c816c9d39ba3f1af1c4ed7",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2_3E.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1_3E.ttf": {
+      "path": "assets/0261971b5b10-HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1_3E-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 87556,
+      "sha256": "73bc9e17231e9073780d3c81574c7253cecd5645c93544df1a935054b39a364f",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1_3E.ttf"
+    },
+    "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0_3E.ttf": {
+      "path": "assets/4d9cefd05e64-HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0_3E-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 88228,
+      "sha256": "0ec6b3cca2df54f108f8dc239597e0eab386343a230afad8a0f445c7d21c3e77",
+      "resolved_url": "https://fonts.cm4all.net/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0_3E.ttf"
+    },
+    "https://fonts.cm4all.net/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghW.ttf": {
+      "path": "assets/fbc46b190b4c-wlpogwHKFkZgtmSR3NB0oRJfaghW-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 100956,
+      "sha256": "83466d53467784622cc164f306e505695537aff9f5835310abbbf48b6b5c3c99",
+      "resolved_url": "https://fonts.cm4all.net/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghW.ttf"
+    },
+    "https://fonts.cm4all.net/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV.ttf": {
+      "path": "assets/d318311cfae7-wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 101332,
+      "sha256": "bcb0c80a3a1f9b684d6759afcc87ca2cbed9280aefbea7e59b83cb3845d60dfb",
+      "resolved_url": "https://fonts.cm4all.net/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV.ttf"
+    },
+    "https://fonts.cm4all.net/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV.ttf": {
+      "path": "assets/6fd9ab05d01f-wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 104768,
+      "sha256": "0124cf8b8f770ba6e29bb16419aa1f0778e5e7dd858f81e18976ac8300da481d",
+      "resolved_url": "https://fonts.cm4all.net/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV.ttf"
+    },
+    "https://fonts.cm4all.net/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvaA.ttf": {
+      "path": "assets/6b469e0432b3-wlp2gwHKFkZgtmSR3NB0oRJvaA-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 98516,
+      "sha256": "72c4209c94de3e6ac6f4f2256ae604174102bbed26ec2a14948024cb86f5c10f",
+      "resolved_url": "https://fonts.cm4all.net/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvaA.ttf"
+    },
+    "https://fonts.cm4all.net/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw.ttf": {
+      "path": "assets/9acd7034ad19-wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 100660,
+      "sha256": "2edf7742debe883538a37223c263b5f0d1c4ae7e61b5cec6199a31c6c0345e5d",
+      "resolved_url": "https://fonts.cm4all.net/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw.ttf"
+    },
+    "https://fonts.cm4all.net/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12Cw.ttf": {
+      "path": "assets/1d53a3408f07-wlppgwHKFkZgtmSR3NB0oRJX1C12Cw-ttf.ttf",
+      "content_type": "font/ttf",
+      "bytes": 102364,
+      "sha256": "0613f2f47f8c76e8b7a99be0545b388c1ee87265952afa41b9a06ae64ecd7799",
+      "resolved_url": "https://fonts.cm4all.net/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12Cw.ttf"
+    },
+    "https://elisamusic.org/.cm4all/sysdb/backgrounds/effects/effect-012.png": {
+      "path": "assets/5f9bdc48d6a7-effect-012-png.png",
+      "content_type": "image/png",
+      "bytes": 18223,
+      "sha256": "e1b2221e87700adc904cd4dc927aa1e09f5c23f8d9241b741a43f90033333886",
+      "resolved_url": "https://elisamusic.org/.cm4all/sysdb/backgrounds/effects/effect-012.png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-200?_=1808b5a2b40": {
+      "path": "assets/84b769698ef5-picture-200.jpg",
+      "content_type": "",
+      "bytes": 3329,
+      "sha256": "5e3dc284dd9859fadadaa071ba472d54c7261fbe0079b5c401d6e2160f610ecf",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-200",
+      "archive_path": "84b769698ef5-picture-200.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-400?_=1808b5a2b40": {
+      "path": "assets/9a1d8d50dba5-picture-400.jpg",
+      "content_type": "",
+      "bytes": 10367,
+      "sha256": "799d9e405ac04fca6acd7d32b46b47697d40acfa4d322c7d69cd516868190220",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-400",
+      "archive_path": "9a1d8d50dba5-picture-400.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-800?_=1808b5a2b40": {
+      "path": "assets/aa53187fb79a-picture-800.jpg",
+      "content_type": "",
+      "bytes": 38904,
+      "sha256": "34eb836365162ec1e32be0704788252d217c1926b54097f3ae77aaf1d162b209",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-800",
+      "archive_path": "aa53187fb79a-picture-800.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-1200?_=1808b5a2b40": {
+      "path": "assets/4be2a4fe602a-picture-1200.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31555,
+      "sha256": "56a350f88e69ac48a1b5dd146716b50dcd46b28b1e30334a6980329c1d4f3b5c",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-1600?_=1808b5a2b40": {
+      "path": "assets/ba51ed71f32f-picture-1600.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31555,
+      "sha256": "56a350f88e69ac48a1b5dd146716b50dcd46b28b1e30334a6980329c1d4f3b5c",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg/picture-2600?_=1808b5a2b40": {
+      "path": "assets/2bcedd4f9876-picture-2600.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31555,
+      "sha256": "56a350f88e69ac48a1b5dd146716b50dcd46b28b1e30334a6980329c1d4f3b5c",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/586B7220-7634-4B08-A734-76F81C0BBFF9.jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-1600?_=18089900eea": {
+      "path": "assets/8746f68e6315-picture-1600.png",
+      "content_type": "image/png",
+      "bytes": 16260,
+      "sha256": "72c4f97f0a6043e9499ed7ab5361e1e62c7c205bdd1729ce4790bea4c196661b",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/43F4BD91-A707-404D-93BD-4541E6885619.png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-2600?_=18089900eea": {
+      "path": "assets/8a9f7b0838e7-picture-2600.png",
+      "content_type": "image/png",
+      "bytes": 16260,
+      "sha256": "72c4f97f0a6043e9499ed7ab5361e1e62c7c205bdd1729ce4790bea4c196661b",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/43F4BD91-A707-404D-93BD-4541E6885619.png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-1200?_=18089900eea": {
+      "path": "assets/24493953c68a-picture-1200.png",
+      "content_type": "image/png",
+      "bytes": 16260,
+      "sha256": "72c4f97f0a6043e9499ed7ab5361e1e62c7c205bdd1729ce4790bea4c196661b",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/43F4BD91-A707-404D-93BD-4541E6885619.png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-800?_=18089900eea": {
+      "path": "assets/dee899ff3c67-picture-800.png",
+      "content_type": "image/png",
+      "bytes": 16260,
+      "sha256": "72c4f97f0a6043e9499ed7ab5361e1e62c7c205bdd1729ce4790bea4c196661b",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/43F4BD91-A707-404D-93BD-4541E6885619.png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-400?_=18089900eea": {
+      "path": "assets/713bcb648a6b-picture-400.png",
+      "content_type": "",
+      "bytes": 25262,
+      "sha256": "6fad7cc1e9bed34e1355f8a430ecd0788cca2e0ac8c1a04db49db84237ba3ef5",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-400",
+      "archive_path": "713bcb648a6b-picture-400.bin",
+      "detected_content_type": "image/png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-200?_=18089900eea": {
+      "path": "assets/3220e5ea1eee-picture-200.png",
+      "content_type": "",
+      "bytes": 11646,
+      "sha256": "ceb73aeae5ff659909090fdeae52b753c072bf33869035e7b86e1f813f223412",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.43F4BD91-A707-404D-93BD-4541E6885619.png/picture-200",
+      "archive_path": "3220e5ea1eee-picture-200.bin",
+      "detected_content_type": "image/png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/43F4BD91-A707-404D-93BD-4541E6885619.png?_=18089900eea": {
+      "path": "assets/876aa7fd16c7-43F4BD91-A707-404D-93BD-4541E6885619-png.png",
+      "content_type": "image/png",
+      "bytes": 16260,
+      "sha256": "72c4f97f0a6043e9499ed7ab5361e1e62c7c205bdd1729ce4790bea4c196661b",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/43F4BD91-A707-404D-93BD-4541E6885619.png"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa-8426.jpeg/picture-1600?_=185d5774690": {
+      "path": "assets/c8fa07968ebb-picture-1600.jpg",
+      "content_type": "",
+      "bytes": 143457,
+      "sha256": "a53105ec470e0a637ca40176abf478e58fb68c7b4d7f3410172b11a4060522cb",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/.Elisa-8426.jpeg/picture-1600",
+      "archive_path": "c8fa07968ebb-picture-1600.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa-8426.jpeg/picture-2600?_=185d5774690": {
+      "path": "assets/cf57bfccdaad-picture-2600.jpg",
+      "content_type": "",
+      "bytes": 322667,
+      "sha256": "a3ba99b90c5cf452e408a4e0e417d32fee84c7c923fcd830e1e1b3ef8e717d24",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/.Elisa-8426.jpeg/picture-2600",
+      "archive_path": "cf57bfccdaad-picture-2600.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa-8426.jpeg/picture-1200?_=185d5774690": {
+      "path": "assets/6b84261bad47-picture-1200.jpg",
+      "content_type": "",
+      "bytes": 91701,
+      "sha256": "adc5287695099701f6e4cfabfc5da788f038abfd6e7b14523291125153e53349",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/.Elisa-8426.jpeg/picture-1200",
+      "archive_path": "6b84261bad47-picture-1200.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa-8426.jpeg/picture-800?_=185d5774690": {
+      "path": "assets/628eb12300e1-picture-800.jpg",
+      "content_type": "",
+      "bytes": 47655,
+      "sha256": "0517f362d54d3ebef32cafc498713ca19f8c2618745e2ee1312a7ab4789a61b7",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/.Elisa-8426.jpeg/picture-800",
+      "archive_path": "628eb12300e1-picture-800.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa-8426.jpeg/picture-400?_=185d5774690": {
+      "path": "assets/d0259d484a51-picture-400.jpg",
+      "content_type": "",
+      "bytes": 16637,
+      "sha256": "a8a81fe7ea43d649eb98429879764c7299817a37a156cc32e8ed1aa8fa56f364",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/.Elisa-8426.jpeg/picture-400",
+      "archive_path": "d0259d484a51-picture-400.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa-8426.jpeg/picture-200?_=185d5774690": {
+      "path": "assets/65bd59d4a7c8-picture-200.jpg",
+      "content_type": "",
+      "bytes": 5762,
+      "sha256": "4eadba33c5e4c8545de3e19d77c357c8fc3069e1dd16987300dce28c89f4284e",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/.Elisa-8426.jpeg/picture-200",
+      "archive_path": "65bd59d4a7c8-picture-200.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/Elisa-8426.jpeg?_=185d5774690": {
+      "path": "assets/ab32803b06d9-Elisa-8426-jpeg.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12611800,
+      "sha256": "90c0a974ddc16278b4a97ddb0e62e6ae22bcb24ad165b9c490453ee321251aaf",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/Elisa-8426.jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa%20Video%20mit%20Probe.mp4/poster?_=185d5c1e1c4": {
+      "path": "assets/02fa12fcb00f-poster.jpg",
+      "content_type": "",
+      "bytes": 17408,
+      "sha256": "1af85efa7018ef048d49e3796fef8245c8d5d54a640fe70301f25f2336315908",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/.Elisa%20Video%20mit%20Probe.mp4/poster",
+      "archive_path": "02fa12fcb00f-poster.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/Elisa/.Elisa%20Video%20mit%20Probe.mp4/video.mp4?_=185d5c1e1c4": {
+      "path": "assets/6be32fe70ff2-video-mp4.mp4",
+      "content_type": "video/mp4",
+      "bytes": 206204029,
+      "sha256": "9fb7e1e4921a92fe72e434172f41b851082cd92e6d222456090b115d41645f94",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/Elisa/Elisa%20Video%20mit%20Probe.mp4",
+      "web_version": {
+        "bytes": 12773311,
+        "sha256": "35b2a2ceb833f7685f3fb5c8700939730480014c8822092282d2fe20c5623a47",
+        "encoding": "H.264 720p 25 fps, AAC 192 kbps, faststart; original retained separately"
+      }
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.IMG_6884%202.jpeg/picture-1600?_=1832bea29f0": {
+      "path": "assets/4abc1b77f080-picture-1600.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 282347,
+      "sha256": "e484ac40b046e2dee30c68898d44c2580f83c540fc1972f271a656950287fcca",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/IMG_6884%202.jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.IMG_6884%202.jpeg/picture-2600?_=1832bea29f0": {
+      "path": "assets/ce76b2e0a564-picture-2600.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 282347,
+      "sha256": "e484ac40b046e2dee30c68898d44c2580f83c540fc1972f271a656950287fcca",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/IMG_6884%202.jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.IMG_6884%202.jpeg/picture-1200?_=1832bea29f0": {
+      "path": "assets/9942c00c3fc2-picture-1200.jpg",
+      "content_type": "",
+      "bytes": 142692,
+      "sha256": "42dc0e236ace0a74358a0e7cecd216f98892a927759619fe1f8b9d6df586c99f",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.IMG_6884%202.jpeg/picture-1200",
+      "archive_path": "9942c00c3fc2-picture-1200.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.IMG_6884%202.jpeg/picture-800?_=1832bea29f0": {
+      "path": "assets/5b460e246e6c-picture-800.jpg",
+      "content_type": "",
+      "bytes": 71213,
+      "sha256": "b389f63cf17dae5ca164ea76360e4ce9be763609cf3493f52da37362a58e1ab0",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.IMG_6884%202.jpeg/picture-800",
+      "archive_path": "5b460e246e6c-picture-800.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.IMG_6884%202.jpeg/picture-400?_=1832bea29f0": {
+      "path": "assets/5f0b512baf60-picture-400.jpg",
+      "content_type": "",
+      "bytes": 21709,
+      "sha256": "f1499ebfe2ba02ca37cdcff95aafc8c95e3fb68c45dcb0184a2b4e28c01c1b5f",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.IMG_6884%202.jpeg/picture-400",
+      "archive_path": "5f0b512baf60-picture-400.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/.IMG_6884%202.jpeg/picture-200?_=1832bea29f0": {
+      "path": "assets/34758243f30c-picture-200.jpg",
+      "content_type": "",
+      "bytes": 7108,
+      "sha256": "0555781b65143fa453bc47cc1a3995f44db82a9eb08ee2cfb51db54e7fa83c72",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/.IMG_6884%202.jpeg/picture-200",
+      "archive_path": "34758243f30c-picture-200.bin",
+      "detected_content_type": "image/jpeg"
+    },
+    "https://elisamusic.org/.cm4all/uproc.php/0/IMG_6884%202.jpeg?_=1832bea29f0": {
+      "path": "assets/59026fc153e3-IMG_6884-2-jpeg.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 282347,
+      "sha256": "e484ac40b046e2dee30c68898d44c2580f83c540fc1972f271a656950287fcca",
+      "resolved_url": "https://elisamusic.org/.cm4all/mediadb/IMG_6884%202.jpeg"
+    }
+  },
+  "failures": []
+}

@@ -1,0 +1,36 @@
+{
+  "checked_local_references": 432,
+  "broken_local_references": [],
+  "external_links": [
+    {
+      "url": "https://elisamusic.org/KONTAKT/",
+      "status": 200,
+      "resolved_url": "https://elisamusic.org/KONTAKT/"
+    },
+    {
+      "url": "https://open.spotify.com/embed/artist/31E8BLDcjlaAI4MZf5cxP0?utm_source=generator",
+      "status": 200,
+      "resolved_url": "https://open.spotify.com/embed/artist/31E8BLDcjlaAI4MZf5cxP0?utm_source=generator"
+    },
+    {
+      "url": "https://youtu.be/5yO2pHJG1zE",
+      "status": 200,
+      "resolved_url": "https://www.youtube.com/watch?v=5yO2pHJG1zE&feature=youtu.be"
+    },
+    {
+      "url": "https://youtu.be/SGiLN3g9TrI",
+      "status": 200,
+      "resolved_url": "https://www.youtube.com/watch?v=SGiLN3g9TrI&feature=youtu.be"
+    },
+    {
+      "url": "https://youtu.be/l14Xoyy96sU?t=3",
+      "status": 200,
+      "resolved_url": "https://www.youtube.com/watch?t=3&v=l14Xoyy96sU&feature=youtu.be"
+    },
+    {
+      "url": "https://youtu.be/uAQXcz36LrY",
+      "status": 200,
+      "resolved_url": "https://www.youtube.com/watch?v=uAQXcz36LrY&feature=youtu.be"
+    }
+  ]
+}

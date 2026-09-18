@@ -1,0 +1,144 @@
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 100;
+  src: url("94fd1af930e6-HTxzL3I-JCGChYJ8VI-L6OO_au7B6xTru1H2-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 200;
+  src: url("c6bd6807e639-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrF3DWvA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 300;
+  src: url("a715be66c55f-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrc3PWvA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 400;
+  src: url("eda16cf3ef93-HTxxL3I-JCGChYJ8VI-L6OO_au7B6xTT3w-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 500;
+  src: url("869402afc8d1-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrK3LWvA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 600;
+  src: url("b9731ba4ca2a-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrB3XWvA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 700;
+  src: url("912bab8c851c-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrY3TWvA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 800;
+  src: url("92cb6e973282-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrf3fWvA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 900;
+  src: url("c4dfe1052fff-HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrW3bWvA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 100;
+  src: url("cd06a2fb86f7-HTxxL3I-JCGChYJ8VI-L6OO_au7B43LT3w-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 200;
+  src: url("b58fa04e2c4a-HTxwL3I-JCGChYJ8VI-L6OO_au7B497y_3E-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: url("a10725982087-HTxwL3I-JCGChYJ8VI-L6OO_au7B47rx_3E-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url("9c77aa4ade1d-HTx3L3I-JCGChYJ8VI-L6OO_au7B2xY-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 500;
+  src: url("c5c54d387ff9-HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lw_3E-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  src: url("8b427a2b2a31-HTxwL3I-JCGChYJ8VI-L6OO_au7B4873_3E-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: url("7b4507232ab2-HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2_3E-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 800;
+  src: url("0261971b5b10-HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1_3E-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 900;
+  src: url("4d9cefd05e64-HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0_3E-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-weight: 400;
+  src: url("fbc46b190b4c-wlpogwHKFkZgtmSR3NB0oRJfaghW-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-weight: 600;
+  src: url("d318311cfae7-wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-weight: 700;
+  src: url("6fd9ab05d01f-wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url("6b469e0432b3-wlp2gwHKFkZgtmSR3NB0oRJvaA-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 600;
+  src: url("9acd7034ad19-wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw-ttf.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 700;
+  src: url("1d53a3408f07-wlppgwHKFkZgtmSR3NB0oRJX1C12Cw-ttf.ttf") format('truetype');
+}
