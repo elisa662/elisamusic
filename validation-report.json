@@ -32,5 +32,18 @@
       "status": 200,
       "resolved_url": "https://www.youtube.com/watch?v=uAQXcz36LrY&feature=youtu.be"
     }
-  ]
+  ],
+  "browser_checks": [
+    "Desktop homepage screenshot compared with original: matching layout",
+    "Navigation HOME → TERMINE → PROJEKTE verified",
+    "Contact form visibly disabled and original form linked",
+    "Mobile menu and KONTAKT submenu tested; Impressum opened",
+    "No JavaScript console errors on checked content pages"
+  ],
+  "video_checks": {
+    "duration_seconds": 86.1,
+    "decode": "Entire compressed video decoded by ffmpeg without errors",
+    "browser_playback": "Not confirmed: embedded browser crashed when video play was attempted"
+  },
+  "publication": "Pending GitHub account selection and repository creation; no live Pages checks performed"
 }
